@@ -35,5 +35,4 @@ At the same time, it also shows a **real-time simulator window**.
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ai-navigation.git
-   cd ai-navigation
+   git clone https://github.com/Karan-maroti-kundale/AI-Based-Autonomous-Navigation-System.git
