@@ -1,0 +1,33 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+.venv/
+venv/
+env/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore videos (large files)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore model weights (can be downloaded separately)
+*.pt
+
+# Ignore log files
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE settings
+.vscode/
+.idea/
