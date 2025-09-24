@@ -13,12 +13,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Ignore videos (large files)
-*.mp4
-*.avi
-*.mov
-*.mkv
-
 # Ignore model weights (can be downloaded separately)
 *.pt
 
