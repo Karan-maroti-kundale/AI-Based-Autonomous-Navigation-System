@@ -1,6 +1,6 @@
 # 🚗 AI-Based Autonomous Navigation Project  
 
-> ⭐ If this project helped you, please give it a **Star** on GitHub!  
+> If you find this project inspiring, a ⭐ on GitHub would mean a lot! 
 
 ---
 
